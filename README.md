@@ -1,4 +1,4 @@
-# LinkedIn Profile Scraper
+# Selenium LinkedIn User Profile Scraper
 
 This project is a LinkedIn Profile Scraper built with Python using Selenium and BeautifulSoup libraries. It allows you to fetch LinkedIn profiles based on first name and last name, providing information such as name, profile URL, title, and location.
 
